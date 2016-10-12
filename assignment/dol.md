@@ -4,15 +4,15 @@
 
 ##### 代码如下
 
- ![QQ截图20161012164129](D:\学习\嵌入式\lab2\QQ截图20161012164129.png)
+ ![QQ截图20161012164129](http://a3.qpic.cn/psb?/4e8c8ef6-8dff-4ace-a581-ed29b1252f80/nmo.dlqFUXy*tfoySFmHjcMej6McEnFQmVRV1gvDDm4!/b/dAoBAAAAAAAA&bo=KQEfACkBHwADACU!&rf=viewer_4)
 
 ##### 结果如下
 
-![ep2](D:\学习\嵌入式\lab2\ep2.png)
+![ep2](http://a3.qpic.cn/psb?/4e8c8ef6-8dff-4ace-a581-ed29b1252f80/TsS3VLNgP0ePjCuvCrHjps9tjOSYIU3keJOg1tq1qBo!/b/dHwBAAAAAAAA&bo=mQX*A5kF*wMDByI!&rf=viewer_4)
 
 ##### dot图如下，可见迭代次数变成了两次
 
- ![dot2](D:\学习\嵌入式\lab2\dot2.png)
+ ![dot2](http://a3.qpic.cn/psb?/4e8c8ef6-8dff-4ace-a581-ed29b1252f80/WCYC09yDMXVhu6BY6ZSugv87gWFAtG7Be9jI0ELgyaU!/b/dH8BAAAAAAAA&bo=*wFxAP8BcQADACU!&rf=viewer_4)
 
 2.第二个实验要求把平方改成立方，只需修改square.c,把相乘次数改为3次
 
@@ -21,11 +21,11 @@
        i = i*i*i;`
 ##### 结果如下
 
-![QQ图片20161012163645](D:\学习\嵌入式\lab2\QQ图片20161012163645.png)
+![QQ图片20161012163645](http://a1.qpic.cn/psb?/4e8c8ef6-8dff-4ace-a581-ed29b1252f80/CyAXPaVc0F2PDhyMFgF1gQMvbI1cko.AuN0Esgk.H5k!/b/dAsBAAAAAAAA&bo=vgHvAb4B7wEDACU!&rf=viewer_4)
 
 ##### dot图如下，这里只修改了函数名没修改类名，尝试过修改，但会报错，应该是遗漏了地方，所以中间的迭代器还叫square
 
- ![dot](D:\学习\嵌入式\lab2\dot.png)
+ ![dot](http://a1.qpic.cn/psb?/4e8c8ef6-8dff-4ace-a581-ed29b1252f80/k.*7rfFw.YdYuxuFA*6XNhx23kGd7sgWLASscI7ika4!/b/dAsBAAAAAAAA&bo=*QGvAP0BrwADACU!&rf=viewer_4)
 
 3.感想
 
